@@ -23,6 +23,11 @@ I enjoy cleaning data, building dashboards and finding insights from datasets.
 
 LinkedIn: (https://www.linkedin.com/in/shoheb-inamdar)
 
+## Currently Learning
+
+- Advanced SQL
+- Power BI Data Modeling
+- Data Analytics Projects
 <!--
 **shoheb-inamdar/shoheb-inamdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
